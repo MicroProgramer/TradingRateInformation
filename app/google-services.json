@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257966251265",
+    "project_id": "tradingrateinformation",
+    "storage_bucket": "tradingrateinformation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257966251265:android:8aeab44eb1f835018f8f00",
+        "android_client_info": {
+          "package_name": "com.tradingrateinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257966251265-4lmneg6khtr8j39p5q2rkjds1afgd0cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrEU8gwaZng5chG-aXXkEnCiMLFgEsE8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257966251265-4lmneg6khtr8j39p5q2rkjds1afgd0cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

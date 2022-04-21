@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TradingRateInformation</string>
+    <string-array name="panel_title">
+        <item>Seller</item>
+        <item>Buyer</item>
+    </string-array>
+    <string name="search">Search</string>
+</resources>
